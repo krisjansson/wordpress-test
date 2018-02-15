@@ -1,0 +1,35 @@
+/*
+ Theme Name:   Twenty Fifteen Child
+ Theme URI:    http://example.com/twenty-fifteen-child/
+ Description:  Twenty Fifteen Child Theme
+ Author:       John Doe
+ Author URI:   http://example.com
+ Template:     twentyfifteen
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twenty-fifteen-child
+*/
+/* custom styles */
+.site-info {
+    background-color:#000d1e;
+}
+.footer-text a {
+    color:white;
+}
+.footer-text {
+    color:white;
+    text-align: center;
+}
+#school-project {
+	background-color: #000d1e !important; 
+	width: 100% !important;
+	position: absolute !important;
+	text-align: center !important;
+	font-size: 2em !important;
+	color: red !important;
+	font-weigt: 600 !important;
+	z-index: 1233;
+}
+
